@@ -1,6 +1,7 @@
 # lungs-segmentation-ICNET
 
-<h2>Segmentation using Lungs X-Ray </h2><br>
+<h2>Segmentation using Lungs X-Ray </h2> <br>
+
 ![alt text](https://raw.githubusercontent.com/theidentity/Unets/master/documentation/sample.png)
 
 ## Details
@@ -14,7 +15,7 @@
 
 ```
 | First Header  | Second Header |
-| ------------- | ------------- |
+| --- | --- |
 | Input  | 256 x 256 GrayScale XRay Images  |
 | Output  | 256 X 256 Segmentation Map |
 ```

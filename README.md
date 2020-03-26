@@ -1,6 +1,6 @@
 # lungs-segmentation-ICNET
 
-Segmentation using Lungs X-Ray
+Segmentation using Lungs X-Ray <br>
 ![alt text](https://raw.githubusercontent.com/theidentity/Unets/master/documentation/sample.png)
 
 ## Details
@@ -15,7 +15,7 @@ Output - 256 X 256 Segmentation Map
 
 ## Important Notes
 While creating data folder, please ensure the following folder structure:
- .
+```
     ├── ...
     ├── train                    
     │   ├── id1
@@ -29,3 +29,4 @@ While creating data folder, please ensure the following folder structure:
     |   |   ├── images
     |   |   |   ├── id2.png               
     └── ...
+```

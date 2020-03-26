@@ -11,11 +11,12 @@
 </ul>
 <br>
 <br>
+```
 | First Header  | Second Header |
 | ------------- | ------------- |
 | Input  | 256 x 256 GrayScale XRay Images  |
 | Output  | 256 X 256 Segmentation Map |
-
+```
 ## Important Notes
 While creating data folder, please ensure the following folder structure:
 ```

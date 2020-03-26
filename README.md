@@ -11,8 +11,6 @@
   <li>Segmentation maps need to generated manually. I have added a small subset of images with their segmentation maps as <b>data.zip</b>.</li>
 </ul>
 <br>
-<br>
-
 <table>
   <tr>
     <td> Input </td>

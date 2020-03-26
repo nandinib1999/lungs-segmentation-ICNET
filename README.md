@@ -13,12 +13,17 @@
 <br>
 <br>
 
-```
-| First Header  | Second Header                    |
-| ---           | ---                              |
-| Input         | 256 x 256 GrayScale XRay Images  |
-| Output        | 256 X 256 Segmentation Map       |
-```
+<table>
+  <tr>
+    <td> Input </td>
+    <td> 256 x 256 GrayScale XRay Images </td>
+  </tr>
+  <tr>
+    <td> Output </td>
+    <td> 256 X 256 Segmentation Map </td>
+  </tr>
+</table>
+
 ## Important Notes
 While creating data folder, please ensure the following folder structure:
 ```
